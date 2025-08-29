@@ -34,3 +34,9 @@ Install the following Python packages:
 ```bash
 pip install opencv-python mediapipe obs-websocket-py numpy
 
+```
+
+## 📜 License
+
+This project is licensed under the GNU General Public License (GPL).
+You are free to use, modify, and distribute it under the same license.
