@@ -15,7 +15,7 @@ Built with **Python**, **OpenCV**, **MediaPipe**, and **OBS WebSocket API**, thi
 
 ## Note
 
- - You may have to play around with the parameters for your own setup.
+ - You may have to play around with the parameters for your own setup or camera position.
 ---
 
 ## 🖥️ How It Works
@@ -33,7 +33,6 @@ Install the following Python packages:
 
 ```bash
 pip install opencv-python mediapipe obs-websocket-py numpy
-
 ```
 
 ## 📜 License
